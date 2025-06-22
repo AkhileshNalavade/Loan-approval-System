@@ -55,7 +55,7 @@ The **Loan Approval Prediction System** uses machine learning to automate the pr
 
 1. Clone the repository:
 
-``bash
+```bash
 git clone https://github.com/yourusername/loan-approval-prediction.git
 cd loan-approval-prediction
 Install dependencies:
